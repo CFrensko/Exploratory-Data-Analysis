@@ -9,7 +9,6 @@ and reported by Carl Wunderlich in a famous 1868 book. But, is this value statis
 Exercises:
 In this exercise, you will analyze a dataset of human body temperatures and employ the concepts of hypothesis testing, 
 confidence intervals, and statistical significance.
-Answer the following questions in this notebook below and submit to your Github account.
 
 1. Is the distribution of body temperatures normal?
 Although this is not a requirement for the Central Limit Theorem to hold (read the introduction on Wikipedia's page about the 
